@@ -7,7 +7,9 @@ Custom GKI kernel built for OxygenOS 16 ports on the Xiaomi 12 (`cupid`), powere
 - **Custom Undervolting (UV)** tables for better thermal efficiency and battery life.
 - **Optimized Low Power Mode (LPM)** for improved standby performance.
 - Based on GKI architecture.
+
 - 
+# Base on dopaemon work
 # By
 * [**dopaemon**](https://github.com/dopaemon)
 
